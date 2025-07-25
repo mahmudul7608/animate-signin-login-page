@@ -2,7 +2,9 @@
 
 This is a beautifully crafted **responsive and animated authentication page**, featuring both **Sign In** and **Log In** forms with smooth transitions and a mobile-friendly layout.
 
-> 📺 **[Live Preview on My Website](https://mahmudul-auth-page.netlify.app/)** :-  https://animation-login-and-sign-in.netlify.app/#
+> 📺 **[Live Preview on My Website](https://mahmudul-auth-page.netlify.app/)** 
+
+:-  https://animation-login-and-sign-in.netlify.app/#
 
 ![Preview](https://github.com/user-attachments/assets/55add689-3316-4849-a263-59072876ba55)
 
