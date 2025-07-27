@@ -1,4 +1,4 @@
-# ✨ Animated & Fully Responsive Sign In / Log In Page
+# ✨ Animated & Fully Responsive Sign In and Log In Page
 
 This is a beautifully crafted **responsive and animated authentication page**, featuring both **Sign In** and **Log In** forms with smooth transitions and a mobile-friendly layout.
 
