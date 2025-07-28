@@ -8,7 +8,7 @@ This is a beautifully crafted **responsive and animated authentication page**, f
 
 ![Preview](https://github.com/user-attachments/assets/55add689-3316-4849-a263-59072876ba55)
 
-## 🚀 Features
+🚀 Features
 
 - ✅ Fully Responsive (Mobile / Tablet / Desktop)
 - ✅ Smooth Animations for form switching
@@ -16,13 +16,13 @@ This is a beautifully crafted **responsive and animated authentication page**, f
 - ✅ Tailwind CSS powered
 - ✅ Vanilla JavaScript for logic
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 
 - **HTML5**
 - **Tailwind CSS**
 - **JavaScript (ES6)**
 
-## 🧪 How to Use Locally
+ 🧪 How to Use Locally
 
 ```bash
 
